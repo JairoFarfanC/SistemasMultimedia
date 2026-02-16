@@ -1,4 +1,12 @@
-Plataforma de Remesas y Comercio Latinoamericano
+# Práctica GitHub - Sistemas Multimedia
 
-Este sitio web es una solución integral para la gestión de envíos de dinero internacionales y la comercialización de productos originarios de América Latina. El objetivo es proporcionar una herramienta funcional para usuarios que buscan servicios financieros seguros y acceso a productos de consumo.
-El sitio web aún está en construcción.
+Este repositorio ha sido creado **exclusivamente** para realizar una tarea de la asignatura **Sistemas Multimedia** de la **Universidad de Extremadura**.
+
+**Objetivo principal:**  
+Adquirir conocimientos básicos y prácticos sobre el uso de **GitHub** (creación de repositorios, commits, branches, pull requests, etc.) como herramienta de control de versiones y colaboración.
+
+**Asignatura:** Sistemas Multimedia  
+**Universidad:** Universidad de Extremadura  
+
+¡Gracias por visitar!  
+(Repo creado con fines docentes – no es un proyecto público ni final).
